@@ -5674,12 +5674,14 @@ Code added by Priyal
         margin-bottom: 12px;
         font-size: 24px
     }
+     /* Vaibhav VB VS 040922 V2.25 */
     .hero-img-wrap {
-        width: 45vh;
-        height: 45vh;
+        width: 15vh;
+        height: 15vh;
         min-height: 0;
         min-width: 0
     }
+     /* Vaibhav VB VS 040922 V2.25 */
     .settings-handle:hover {
         background-image: none
     }
