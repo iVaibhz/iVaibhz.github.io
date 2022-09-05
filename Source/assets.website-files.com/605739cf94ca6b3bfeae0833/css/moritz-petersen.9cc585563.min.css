@@ -5675,9 +5675,16 @@ Code added by Priyal
         font-size: 24px
     }
      /* Vaibhav VB VS 040922 V2.25 */
-    .hero-img-wrap {
+    .hero-img-wrap1 {
         width: 15vh;
         height: 15vh;
+        min-height: 0;
+        min-width: 0
+    }
+     /* Vaibhav VB VS 040922 V2.25 */
+    .hero-img-wrap {
+        width: 45vh;
+        height: 45vh;
         min-height: 0;
         min-width: 0
     }
