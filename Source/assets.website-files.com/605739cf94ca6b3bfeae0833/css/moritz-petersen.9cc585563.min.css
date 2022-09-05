@@ -5683,8 +5683,8 @@ Code added by Priyal
     }
      /* Vaibhav VB VS 040922 V2.25 */
     .hero-img-wrap {
-        width: 25vh;
-        height: 25vh;
+        width: 15vh;
+        height: 15vh;
         min-height: 0;
         min-width: 0
     }
